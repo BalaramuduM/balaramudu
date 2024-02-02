@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0e0808; /* Set your desired background color */
+  }
+  
+  .login-box {
+    width: 300px;
+    margin: 100px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333; /* Set your desired heading color */
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-top: 10px;
+    color: #555; /* Set your label color */
+  }
+  
+  input {
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  input[type="button"] {
+    background-color: #007bff; /* Set your desired button background color */
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  input[type="button"]:hover {
+    background-color: #0056b3; /* Set your desired button hover color */
+  }
+  
+  .para-2 {
+    text-align: center;
+    margin-top: 20px;
+    color: #f7f2f2; /* Set your paragraph color */
+  }
+  
+  a {
+    color: #85b4e7;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
